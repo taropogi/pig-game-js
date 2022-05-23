@@ -8,4 +8,4 @@ A simple javascript game
 
 ## Demo
 
-**[Click this link](https://www.google.com/)**
+**[Click this link](https://taropogi.github.io/pig-game-js/)**
